@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   .bgcover{
       width: 100%;
       height: 100vh;
-      background: green;
+      background: url(../static/kakashicover.jpg) top center;
       
   }
   #bgcover::before{
