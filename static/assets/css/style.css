@@ -148,6 +148,35 @@ h1, h2, h3, h4, h5, h6 {
   .nav-menu li:hover i, .nav-menu .active i, .nav-menu .active i:focus, .nav-menu li:hover a > i{
     color: #149ddd;
   }
+  
+  /* Mobile Navigation */
+
+  .mobile-nav-toggle {
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    z-index: 9998;
+    border: 0;
+    font-size: 24px;
+    background-color: #149ddd;
+    outline: none !important;
+    color: #fff;
+    transition: all 0.4s;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+ }
+ .mobile-nav-active{
+     overflow: hidden;
+ }
+ .mobile-nav-active #header{
+     left: 0;
+ }
+
 
   /*--------------------------------------------------------------
   # bgcover Section
