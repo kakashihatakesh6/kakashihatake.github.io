@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
   # main General
   --------------------------------------------------------------*/
     #main{
-        margin-left: 310px;
+        margin-left: 300px;
     }
    
    @media (max-width: 1199px){
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
   # Sections General
   --------------------------------------------------------------*/
   section{
-      padding: 60px 0;
+      padding: 60px 10px;
       overflow: hidden;
  }
   
