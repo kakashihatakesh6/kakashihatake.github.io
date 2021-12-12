@@ -411,7 +411,13 @@
 
 <!--Vendor Aos js-->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>AOS.init();</script>
+<!----- INITIALIZE AOS ---------->
+<script>
+    AOS.init({
+        offset: 300,
+        duration: 1000,
+    });
+</script>
 
  <!-- Vendor JS Files -->
   <script src="https://ayushporwal18.herokuapp.com/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
