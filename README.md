@@ -10,8 +10,8 @@
         <a href="mailto:kakashihatakesh6@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Kakashi|Gmail" width="25px"></a>&nbsp;
     </p>
     <p align="center">
-     <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
-     <a href="https://www.instagram.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"></a>
+     <a href="https://www.facebook.com/profile.php?id=100075833079778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kakashi|Facebook"></a>
+     <a href="https://www.instagram.com/kakashish6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"></a>
   </p>
 </nav>
 
@@ -20,7 +20,7 @@
 <!--------<h3>About Me 🙋‍♂️</h3>--------->
 
 ### About me :raising_hand_man:
-<p>I'm a undergraduate student at Manipur Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
+<p>I'm a undergraduate student at Manipal Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
 <img align="right" src="https://github.com/KakshiHatakesh6/LordFifthMinato/blob/main/p-img_3.gif" width="350px"/>
 
 <!---------- Skill Section --------------->
